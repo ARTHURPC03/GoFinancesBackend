@@ -37,7 +37,8 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "semi":"off"
   },
   "settings": {
     "import/resolver": {
