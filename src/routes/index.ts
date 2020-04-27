@@ -1,9 +1,9 @@
-import { Router } from 'express';
+import { Router } from 'express'
 
-import transactionsRouter from './transactions.routes';
+import transactionsRouter from './transactions.routes'
 
-const routes = Router();
+const routes = Router()
 
-routes.use('/transactions', transactionsRouter);
+routes.use('/transactions', transactionsRouter)
 
-export default routes;
+export default routes
