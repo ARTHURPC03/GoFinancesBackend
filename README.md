@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img alt="GoFinances" width="150px"  src="./github/GoFinances.gif" />
    GoFinances Back-end
 </h1>
 
@@ -41,4 +40,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 GoFinances uma aplicação financeira consumindo a API do back-end, gerenciando transações.
 
-
+Confira o Projeto Web em: https://github.com/ARTHURPC03/GoFinancesWeb
