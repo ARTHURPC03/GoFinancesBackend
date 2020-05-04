@@ -2,8 +2,6 @@
    GoFinances Back-end
 </h1>
 
-<br>
-
 ## :camera: Demonstração
 
 ![gif](github/GoFinances.gif)
