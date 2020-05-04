@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GoFinances" src="./github/GoFinances.gif" />
+  <img alt="GoFinances" width="150px"  src="./github/GoFinances.gif" />
    GoFinances Back-end
 </h1>
 
